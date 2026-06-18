@@ -61,9 +61,6 @@ Conocimientos medios en:
 - .NET
 - Spring Boot
 - Bootstrap
-
-Conocimientos básicos en:
-
 - PHP
 
 ---
